@@ -2,7 +2,7 @@
     "name": "zh/yii2-zhcart",
     "description": "一个支持各种优惠组合的购物车",
     "type": "library",
-    "keywords": ["yii2", "imagine"],
+    "keywords": ["yii2", "cart"],
     "license": "null",
     "authors": [
         {
