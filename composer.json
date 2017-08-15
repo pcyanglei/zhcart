@@ -1,0 +1,21 @@
+{
+    "name": "zh/yii2-zhcart",
+    "description": "一个支持各种优惠组合的购物车",
+    "type": "library",
+    "keywords": ["yii2", "imagine"],
+    "license": "null",
+    "authors": [
+        {
+            "name": "Hu Yang",
+            "email": "127802495@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "zh\\cart\\": ""
+        }
+    }
+}
