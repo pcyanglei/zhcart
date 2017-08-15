@@ -1,7 +1,9 @@
 <?php
 namespace zh\cart;
 use yii\base\Component;
-
+/**
+ * @author yanghu <127802495@qq.com>
+ */
 class Cart extends Component
 {
     public $goodsClass;

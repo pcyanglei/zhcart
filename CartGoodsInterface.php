@@ -1,5 +1,8 @@
 <?php
 namespace zh\cart;
+/**
+ * @author yanghu <127802495@qq.com>
+ */
 interface CartGoodsInterface
 {
     const EVENT_COST_CALC_GOODS = 'costCalcGoods';

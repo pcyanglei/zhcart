@@ -2,7 +2,9 @@
 namespace zh\cart;
 
 use yii\base\Behavior;
-
+/**
+ * @author yanghu <127802495@qq.com>
+ */
 class GoodsDiscountBehavior extends Behavior
 {
     public function events()

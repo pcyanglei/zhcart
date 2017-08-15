@@ -2,7 +2,9 @@
 namespace zh\cart;
 
 use yii\base\Component;
-
+/**
+ * @author yanghu <127802495@qq.com>
+ */
 trait GoodsTrait 
 {
     protected $quantity;
